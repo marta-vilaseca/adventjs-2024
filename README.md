@@ -5,14 +5,14 @@
 Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conjunto de retos para practicar tu lógica de programación lanzados a lo largo del mes de Diciembre de 2024 por [Miguel Ángel Durán _"midudev"_](https://midu.dev).
 
 > [!IMPORTANT]  
-> **Retos Completados:** 1 de 1 ✅
+> **Retos Completados:** 2 de 2 ✅
 
 ## Soluciones
 
 | #   | Título del Desafío          | Instrucciones         | Soluciones                    |
 | --- | --------------------------- | --------------------- | ----------------------------- |
 | 01  | 🎁 ¡Primer regalo repetido! | [📄](01/README_01.md) | [🟡](01/01.js) [🔵](01/01.ts) |
-| 02  |                             |                       |                               |
+| 02  | 🖼 Enmarcando nombres        | [📄](02/README_02.md) | [🟡](02/02.js) [🔵](02/02.ts) |
 | 03  |                             |                       |                               |
 | 04  |                             |                       |                               |
 | 05  |                             |                       |                               |
@@ -37,5 +37,7 @@ Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conju
 | 24  |                             |                       |                               |
 
 ## Changelog
+
+_(\* no incluyendo actualizaciones diarias)_
 
 - **1 Dic 2024** - Iniciado el repo, subida la solución del reto 1 en JavaScript y TypeScript

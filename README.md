@@ -5,36 +5,36 @@
 Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conjunto de retos para practicar tu lógica de programación lanzados a lo largo del mes de Diciembre de 2024 por [Miguel Ángel Durán _"midudev"_](https://midu.dev).
 
 > [!IMPORTANT]  
-> **Retos Completados:** 2 de 2 ✅
+> **Retos Completados:** 3 de 3 ✅
 
 ## Soluciones
 
-| #   | Título del Desafío          | Instrucciones         | Soluciones                    |
-| --- | --------------------------- | --------------------- | ----------------------------- |
-| 01  | 🎁 ¡Primer regalo repetido! | [📄](01/README_01.md) | [🟡](01/01.js) [🔵](01/01.ts) |
-| 02  | 🖼 Enmarcando nombres        | [📄](02/README_02.md) | [🟡](02/02.js) [🔵](02/02.ts) |
-| 03  |                             |                       |                               |
-| 04  |                             |                       |                               |
-| 05  |                             |                       |                               |
-| 06  |                             |                       |                               |
-| 07  |                             |                       |                               |
-| 08  |                             |                       |                               |
-| 09  |                             |                       |                               |
-| 10  |                             |                       |                               |
-| 11  |                             |                       |                               |
-| 12  |                             |                       |                               |
-| 13  |                             |                       |                               |
-| 14  |                             |                       |                               |
-| 15  |                             |                       |                               |
-| 16  |                             |                       |                               |
-| 17  |                             |                       |                               |
-| 18  |                             |                       |                               |
-| 19  |                             |                       |                               |
-| 20  |                             |                       |                               |
-| 21  |                             |                       |                               |
-| 22  |                             |                       |                               |
-| 23  |                             |                       |                               |
-| 24  |                             |                       |                               |
+| #   | Título del Desafío           | Instrucciones         | Soluciones                    |
+| --- | ---------------------------- | --------------------- | ----------------------------- |
+| 01  | 🎁 ¡Primer regalo repetido!  | [📄](01/README_01.md) | [🟡](01/01.js) [🔵](01/01.ts) |
+| 02  | 🖼 Enmarcando nombres         | [📄](02/README_02.md) | [🟡](02/02.js) [🔵](02/02.ts) |
+| 03  | 🏗️ Organizando el inventario | [📄](03/README_03.md) | [🟡](03/03.js) [🔵](03/03.ts) |
+| 04  |                              |                       |                               |
+| 05  |                              |                       |                               |
+| 06  |                              |                       |                               |
+| 07  |                              |                       |                               |
+| 08  |                              |                       |                               |
+| 09  |                              |                       |                               |
+| 10  |                              |                       |                               |
+| 11  |                              |                       |                               |
+| 12  |                              |                       |                               |
+| 13  |                              |                       |                               |
+| 14  |                              |                       |                               |
+| 15  |                              |                       |                               |
+| 16  |                              |                       |                               |
+| 17  |                              |                       |                               |
+| 18  |                              |                       |                               |
+| 19  |                              |                       |                               |
+| 20  |                              |                       |                               |
+| 21  |                              |                       |                               |
+| 22  |                              |                       |                               |
+| 23  |                              |                       |                               |
+| 24  |                              |                       |                               |
 
 ## Changelog
 

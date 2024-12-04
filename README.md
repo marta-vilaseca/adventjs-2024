@@ -6,7 +6,7 @@ Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conju
 
 > [!IMPORTANT]  
 > **Retos Completados:** 4 de 4 ✅
-> **Estrellas Conseguidas:** 19 de 20 ⏳
+> **Estrellas Conseguidas:** 20 de 20 ✅
 
 ## Soluciones
 
@@ -41,4 +41,5 @@ Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conju
 
 _(\* no incluyendo actualizaciones diarias)_
 
+- **4 Dic 2024** - Refactorizada solución reto 3 (conseguidas las cinco estrellas!), corregido detalle del reto 4
 - **1 Dic 2024** - Iniciado el repo, subida la solución del reto 1 en JavaScript y TypeScript

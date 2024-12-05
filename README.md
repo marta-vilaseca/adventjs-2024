@@ -5,8 +5,8 @@
 Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conjunto de retos para practicar tu lógica de programación lanzados a lo largo del mes de Diciembre de 2024 por [Miguel Ángel Durán _"midudev"_](https://midu.dev).
 
 > [!IMPORTANT]  
-> **Retos Completados:** 4 de 4 ✅
-> **Estrellas Conseguidas:** 20 de 20 ✅
+> **Retos Completados:** 5 de 5 ✅  
+> **Estrellas Conseguidas:** 25 de 25 ✅
 
 ## Soluciones
 
@@ -16,7 +16,7 @@ Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conju
 | 02  | 🖼 Enmarcando nombres             | [📄](02/README_02.md) | [🟡](02/02.js) [🔵](02/02.ts) |
 | 03  | 🏗️ Organizando el inventario     | [📄](03/README_03.md) | [🟡](03/03.js) [🔵](03/03.ts) |
 | 04  | 🎄 Decorando el árbol de Navidad | [📄](04/README_04.md) | [🟡](04/04.js) [🔵](04/04.ts) |
-| 05  |                                  |                       |                               |
+| 05  | 👞 Emparejando botas             | [📄](05/README_05.md) | [🟡](05/05.js) [🔵](05/05.ts) |
 | 06  |                                  |                       |                               |
 | 07  |                                  |                       |                               |
 | 08  |                                  |                       |                               |

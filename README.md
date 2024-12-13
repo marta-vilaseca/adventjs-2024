@@ -5,8 +5,8 @@
 Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conjunto de retos para practicar tu lógica de programación lanzados a lo largo del mes de Diciembre de 2024 por [Miguel Ángel Durán _"midudev"_](https://midu.dev).
 
 > [!IMPORTANT]  
-> **Retos Completados:** 11 de 12 ✅  
-> **Estrellas Conseguidas** _(contando solo las de JavaScript)_: 51 de 60 ✅
+> **Retos Completados:** 12 de 12 ✅  
+> **Estrellas Conseguidas** _(contando solo las de JavaScript)_: 56 de 60 ✅
 
 ## Soluciones
 
@@ -23,7 +23,7 @@ Mis soluciones a los desafíos de **[AdventJS](https://adventjs.dev)**, el conju
 | 09  | 🚂 El tren mágico                  | [📄](09/README_09.md) | [🟡](09/09.js)(3⭐) [🔵](09/09.ts)     |
 | 10  | 👩‍💻 El ensamblador élfico           | [📄](10/README_10.md) | [🟡](10/10.js)(3⭐) [🔵](10/10.ts)     |
 | 11  | 🏴‍☠️ Nombres de archivos codificados | [📄](11/README_11.md) | [🟡](11/11.js)(**5**⭐) [🔵](11/11.ts) |
-| 12  |                                    |                       |                                        |
+| 12  | 💵 ¿Cuánto cuesta el árbol?        | [📄](12/README_12.md) | [🟡](12/12.js)(**5**⭐) [🔵](12/12.ts) |
 | 13  |                                    |                       |                                        |
 | 14  |                                    |                       |                                        |
 | 15  |                                    |                       |                                        |
